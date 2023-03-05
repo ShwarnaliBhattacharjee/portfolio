@@ -1189,6 +1189,7 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
+  height: 70%;
 }
 
 .contact .info i {
@@ -1222,7 +1223,7 @@ section {
 
 .contact .info .email,
 .contact .info .phone {
-  margin-top: 40px;
+  margin-top: 0px;
 }
 
 .contact .info .email:hover i,
