@@ -1,6 +1,2 @@
--Thanks for downloading this template!
-
-Template Name: Kelly
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
+This is gis portfolio of Shwarnali Bhattacharjee
 License: https://bootstrapmade.com/license/
